@@ -1,5 +1,5 @@
   <h1 align="center">
-  <img alt="FastFeet" title="FastFeet" src=".github/logo.png" width="300px" />
+  <img alt="FastFeet" title="FastFeet" src=".github/logo.png" width="300px" style="border-radius:100px" />
 </h1>
 
 <h3 align="center">
