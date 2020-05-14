@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Aplicativo de Gerenciamento de transportadora fictícia feito com ReactJS
+  Aplicativo de Gerenciamento de Transportadora Fictícia feito com ReactJS
 
 ### 🎯 Sobre o Projeto
 
