@@ -26,11 +26,6 @@
 
 # :dart: Recursos
 
-* Encomendas CRUD
-* Entregadores CRUD
-* Destinatários CRUD
-* Problemas os entregadores podem adicionar problemas nas encomandas.
-
 É importante mencionar que esta é uma das aplicações do **FastFeet System**
 
 Para explorar os outros, clique nos links acima:
@@ -41,19 +36,19 @@ Para explorar os outros, clique nos links acima:
 
 ** Você precisa instalar o [Node.js] (https://nodejs.org/en/download/) e o [Yarn] (https://yarnpkg.com/) primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando: **
 
-`` git clone https: // github.com / alessandro-silva / fastfeet-web.git``
+`` git clone https://github.com/alessandro-silva/fastfeet-web.git``
 
 URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se você possui uma chave SSH registrada na sua conta do Github, clone o projeto usando este comando:
 
-`` git clone git@github.com: alessandro-silva / fastfeet-web.git`` 
+`` git clone git@github.com:alessandro-silva/fastfeet-web.git`` 
 
 ** Instalar dependências **
 
 `` yarn install`` 
 
-Crie suas variáveis de ambiente com base nos exemplos de ``` .env.example```
+Crie suas variáveis de ambiente com base nos exemplos de ```.env.example```
 
-``` cp .env.example .env```
+```cp .env.example.env```
 
 Após copiar os exemplos, certifique-se de preencher as variáveis com novos valores.
 
