@@ -34,7 +34,7 @@ Para explorar os outros, clique nos links acima:
 
 # :wrench: Instalação
 
-** Você precisa instalar o [Node.js] (https://nodejs.org/en/download/) e o [Yarn] (https://yarnpkg.com/) primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando: **
+**Você precisa instalar o [Node.js] (https://nodejs.org/en/download/) e o [Yarn] (https://yarnpkg.com/) primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando:**
 
 `` git clone https://github.com/alessandro-silva/fastfeet-web.git``
 
@@ -42,7 +42,7 @@ URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se 
 
 `` git clone git@github.com:alessandro-silva/fastfeet-web.git`` 
 
-** Instalar dependências **
+**Instalar dependências**
 
 `` yarn install`` 
 
@@ -52,7 +52,7 @@ Crie suas variáveis de ambiente com base nos exemplos de ```.env.example```
 
 Após copiar os exemplos, certifique-se de preencher as variáveis com novos valores.
 
-** Configure a API **
+**Configure a API**
 
 A interface precisa interagir com o servidor para obter todos os dados relacionados aos alunos, matrículas, planos e também executar mutações.
 
