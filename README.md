@@ -34,7 +34,7 @@ Para explorar os outros, clique nos links acima:
 
 # :wrench: Instalação
 
-**Você precisa instalar o [Node.js] (https://nodejs.org/en/download/) e o [Yarn] (https://yarnpkg.com/) primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando:**
+**Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando:**
 
 `` git clone https://github.com/alessandro-silva/fastfeet-web.git``
 
