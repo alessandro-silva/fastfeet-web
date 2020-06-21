@@ -56,7 +56,7 @@ Após copiar os exemplos, certifique-se de preencher as variáveis com novos val
 
 A interface precisa interagir com o servidor para obter todos os dados relacionados aos alunos, matrículas, planos e também executar mutações.
 
-Certifique-se de ir ao repositório [FastFeet API] (https://github.com/alessandro/fastfeet-api) e siga as instruções para fazê-lo funcionar em sua máquina.
+Certifique-se de ir ao repositório [FastFeet API](https://github.com/alessandro/fastfeet-api) e siga as instruções para fazê-lo funcionar em sua máquina.
 
 
 # :surfer: Introdução
