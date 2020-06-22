@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Fast Feet API
+  Fast Feet WEB
 </h3>
 
 > Gerencie uma transportadora com um aplicativo ágil e intuitivo que ajudará sua empresa a crescer :rocket:
@@ -30,7 +30,7 @@
 
 Para explorar os outros, clique nos links acima:
 - [FastFeet Mobile](https://github.com/alessandro-silva/fastfeet-mobile)
-- [FastFeet Web](https://github.com/alessandro-silva/fastfeet-web)
+- [FastFeet Api](https://github.com/alessandro-silva/fastfeet-api)
 
 # :wrench: Instalação
 
@@ -44,7 +44,7 @@ URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se 
 
 **Instalar dependências**
 
-`` yarn install`` 
+`` yarn`` 
 
 Crie suas variáveis de ambiente com base nos exemplos de ```.env.example```
 
@@ -56,7 +56,7 @@ Após copiar os exemplos, certifique-se de preencher as variáveis com novos val
 
 A interface precisa interagir com o servidor para obter todos os dados relacionados aos alunos, matrículas, planos e também executar mutações.
 
-Certifique-se de ir ao repositório [FastFeet API](https://github.com/alessandro/fastfeet-api) e siga as instruções para fazê-lo funcionar em sua máquina.
+Certifique-se de ir ao repositório [FastFeet API](https://github.com/alessandro-silva/fastfeet-api) e siga as instruções para fazê-lo funcionar em sua máquina.
 
 
 # :surfer: Introdução
@@ -73,4 +73,4 @@ Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolv
 
 #
 
-Feito por [Alessandro Silva](https://github.com/alessandro-silva) :book::earth_americas:
+Feito por [Alessandro Silva](https://github.com/alessandro-silva) :book::leaves:
