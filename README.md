@@ -54,7 +54,7 @@ Após copiar os exemplos, certifique-se de preencher as variáveis com novos val
 
 **Configure a API**
 
-A interface precisa interagir com o servidor para obter todos os dados relacionados aos entregadores, emcomendas, destinatários e também executar mutações.
+A interface precisa interagir com o servidor para obter todos os dados relacionados aos entregadores, encomendas, destinatários e também executar mutações.
 
 Certifique-se de ir ao repositório [FastFeet API](https://github.com/alessandro-silva/fastfeet-api) e siga as instruções para fazê-lo funcionar em sua máquina.
 
